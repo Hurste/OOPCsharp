@@ -1,0 +1,12 @@
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\bin\Debug\Hurst_AddressBook.exe.config
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\bin\Debug\Hurst_AddressBook.exe
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\bin\Debug\Hurst_AddressBook.pdb
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.csprojResolveAssemblyReference.cache
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.Form1.resources
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.Properties.Resources.resources
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.csproj.GenerateResource.cache
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.csproj.CoreCompileInputs.cache
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.exe
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\obj\Debug\Hurst_AddressBook.pdb
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\bin\Debug\AddressBook.mdf
+E:\MATC Coursework\IT-DEV 115 Intermediate Object-Oriented Programming\Assignments\Assignment 9\Hurst_AddressBook\Hurst_AddressBook\bin\Debug\AddressBook_log.ldf
